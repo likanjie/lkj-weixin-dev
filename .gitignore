@@ -1,0 +1,7 @@
+*/*.ipr
+*/*.iml
+*/*.iws
+*/tmp
+*/test
+*/out
+*/logs
